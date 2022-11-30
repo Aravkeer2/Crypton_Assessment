@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="home_decors">Home Decors</string>
+    <string name="we_insure_each_order_for_the_amount_500">We insure each order for the amount $500</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="search_by_category">Search by category</string>
+    <string name="categories">Categories</string>
+    <string name="cleaning_service">Cleaning service</string>
+    <string name="interior_design">Interior design</string>
+    <string name="courier_service">Courier service</string>
+    <string name="equipment_repair">Equipment repair</string>
+    <string name="con">The last completed works of the contractor are shown below.</string>
+    <string name="cont">I have been working in this position for over 10 years! I have created many design solutions and I think my main best quality is creativity.If you liked my work, please contact me and see the professionalism and quality of my services.</string>
+    <string name="details">Details</string>
+    <string name="furniture_works">Furniture works</string>
+    <string name="read_more">Read more</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="h">TODO</string>
+
+
+
+
+</resources>
